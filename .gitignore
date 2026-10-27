@@ -138,3 +138,8 @@ opv2v_data_dumping
 checkpoints
 DCOS.md
 spconv/
+
+.vscode
+.workbuddy
+.vscode/
+.workbuddy/
